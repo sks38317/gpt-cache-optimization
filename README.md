@@ -6,17 +6,6 @@ While working on multi-session GPT simulations, the user encountered persistent 
 
 ---
 
-## Contents
-
-- `docs/`
-  - System reports, test results, and structural logic
-- `meta/`
-  - Feedback history, OpenAI responses, submission notes
-- `README.md`
-  - You’re here.
-
----
-
 ## Key Highlights
 
 - Token reduction metrics after optimization
