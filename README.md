@@ -25,6 +25,3 @@ Seok Hee-sung, South Korea
 
 This report was referenced in official support correspondence with OpenAI and was based on actual system behavior during a real user session.
 
----
-
-_This README links to individual markdown files documenting the experiment, trigger system, logs, and feedback._
