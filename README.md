@@ -25,3 +25,7 @@ Seok Hee-sung, South Korea
 
 This report was referenced in official support correspondence with OpenAI and was based on actual system behavior during a real user session.
 
+## Media Mentions
+
+- [WinBuzzer - ChatGPT Users Report Cache Loops, Memory Loss, Stability Issues](https://winbuzzer.com/2025/04/20/chatgpt-users-report-cache-loops-memory-loss-stability-issues-xcxwbn/)  
+  _This article references the cache-related issues and mitigation proposals covered in this repository._
