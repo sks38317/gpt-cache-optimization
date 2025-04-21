@@ -1,6 +1,6 @@
 ## OpenAI Support Response (April 2025)
 
-**From:** Darryl, OpenAI Support  
+**From:** Darryl, Darwin OpenAI Support  
 **Topic:** Trigger-Response Routine & Memory Circuit Feedback  
 
 ---
